@@ -2,9 +2,10 @@
 <h2>DU - DA Module 13<br/>
 Crowdfunding ETL Mini Project<br/>
 <br/>
-by Michael Aparisio and Laura Vara</h2><br/>
+by M. Aparisio and L. Vara</h2><br/>
 
-(((IMAGE HERE)))
+![CrowdFunding_Mini_Readme](https://github.com/maparisio/Crowdfunding_ETL/assets/152572519/89c7621d-fc4b-445a-ace7-2572ac25f667)
+
 <br/>
 <br/>
 <h2>INDEX</h2><br/>
